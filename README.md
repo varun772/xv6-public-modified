@@ -1,9 +1,13 @@
 COMMANDS TO EXECUTE ARE:
 
 1.make #just to compile them
+
 2.make #qemu for getting into qemu in default or round robin mode
+
 3.make qemu SCHEDULER=FCFS #to run fcfs
+
 4.make qemu SCHEDULER=pbs #to run pbs
+
 5.make qemu SCHEDULER=MLFQ #to run MLFQ
 
 EXPLANATION TO WHAT AND WHERE I HAVE DONE ASKED IN THE ASSIGNMENT:
